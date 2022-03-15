@@ -28,3 +28,7 @@ def greeting():
 
 def empty():
     pass
+
+
+def new_empty():
+    pass
