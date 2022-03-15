@@ -24,3 +24,7 @@ def hello():
 
 def greeting():
     return 'Hi'
+
+
+def empty():
+    pass
