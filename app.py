@@ -32,3 +32,7 @@ def empty():
 
 def new_empty():
     pass
+
+
+def other_empty():
+    pass
