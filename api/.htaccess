@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^product/ product/api.php [QSA,L]
+</IfModule>
