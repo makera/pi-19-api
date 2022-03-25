@@ -31,6 +31,8 @@ services:
     build: ./api
     ports:
       - "8000:80"
+    volumes:
+      - ./api:/var/www/html
 
   redis:
     image: "redis:alpine"
